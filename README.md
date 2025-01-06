@@ -20,3 +20,15 @@ Hi there, My name is shahd. I am a CS student. Exploring to find my true passion
 - [![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg)](https://www.linkedin.com/in/shahd-gamal1/)
 - [![Codeforces](https://codeforces.com/favicon.ico)](https://codeforces.com/profile/shahdg)
 - [![LeetCode](https://assets.leetcode.com/assets/favicons/favicon-32x32.png)](https://leetcode.com/u/shahd_gamall/)
+
+## Profiles
+
+<a href="https://www.linkedin.com/in/shahd-gamal1/">
+  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="24">
+</a>
+<a href="https://codeforces.com/profile/shahdg">
+  <img src="assets/icons/codeforces.svg" alt="Codeforces" width="24">
+</a>
+<a href="https://leetcode.com/u/shahd_gamall/">
+  <img src="assets/icons/leetcode.svg" alt="LeetCode" width="24">
+</a>
