@@ -13,22 +13,14 @@ Hi there, My name is shahd. I am a CS student. Exploring to find my true passion
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdgamall&show_icons=true&theme=dark)
 
-### profiles
 
 ## Profiles
 
-- [![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/linkedin.svg)](https://www.linkedin.com/in/shahd-gamal1/)
-- [![Codeforces](https://codeforces.com/favicon.ico)](https://codeforces.com/profile/shahdg)
-- [![LeetCode](https://assets.leetcode.com/assets/favicons/favicon-32x32.png)](https://leetcode.com/u/shahd_gamall/)
-
-## Profiles
-
-<a href="https://www.linkedin.com/in/shahd-gamal1/">
-  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="24">
-</a>
-<a href="https://codeforces.com/profile/shahdg">
-  <img src="assets/icons/codeforces.svg" alt="Codeforces" width="24">
-</a>
-<a href="https://leetcode.com/u/shahd_gamall/">
-  <img src="assets/icons/leetcode.svg" alt="LeetCode" width="24">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahd-gamal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
+  </a>
+  <a href="=https://codeforces.com/profile/shahdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="30" />
+  </a>
+  <a href="https://leetcode.com/u/shahd_gamall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30" />
+  </a>
+</p>
