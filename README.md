@@ -2,13 +2,14 @@ Hi there, My name is shahd. I am a CS student. Exploring to find my true passion
 
 ## Technical Skills
 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cplusplus.svg" alt="C++" width="24"/>
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/html5.svg" alt="HTML" width="24"/>
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/css3.svg" alt="CSS" width="24"/>
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/javascript.svg" alt="JavaScript" width="24"/>
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/git.svg" alt="GIT" width="24"/> 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mysql.svg" alt="MySQL" width="24"/> 
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+- ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+  
 ### GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdgamall&show_icons=true&theme=dark)
