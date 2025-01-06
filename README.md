@@ -10,7 +10,7 @@ Hi there, My name is shahd. I am a CS student. Exploring to find my true passion
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
   
-### GitHub Status
+## GitHub Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdgamall&show_icons=true&theme=dark)
 
