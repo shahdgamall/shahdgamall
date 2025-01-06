@@ -19,9 +19,11 @@ Hi there, My name is shahd. I am a CS student. Exploring to find my true passion
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shahd-gamal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
-  </a>                       
+  </a>  
+  
 <a href="=https://codeforces.com/profile/shahdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="30" />
   </a> 
+  
 <a href="https://leetcode.com/u/shahd_gamall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30" />
   </a>
 </p>
